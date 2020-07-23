@@ -1,0 +1,65 @@
+name Posephine Bloggs
+birthday 01-06-1980
+address 1 Grace Street, Lane Cove, NSW
+postcode 2066
+phone 02111111
+recipient dog care, the disabled
+donation 100, 300
+
+name Durant Davis
+birthday 11-09-1960
+postcode 2066
+phone 00011111
+recipient lifecare, animal protection, the disabled
+donation 200, 200, 350
+
+name Posephine Esmerelda Bloggs
+birthday 13-05-1960
+address 102 Smith St, Summer hill, NSW
+postcode 2130
+phone 11222009
+recipient lifecare, animal protection
+donation 200, 50
+
+name Patricia Davies
+birthday 03-05-2008
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216
+phone 00220000
+recipient animal protection, the disabled
+donation 200, 1350
+
+name Jennifer Lewis
+birthday 30-01-1988
+phone 01112100
+recipient the disabled, heart foundation
+donation 150, 300
+
+name Mary Brown
+birthday 23-07-2008
+postcode 2016
+recipient lifecare, heart foundation
+donation 650, 600
+
+name Mary Brown
+birthday 15-11-2008
+postcode 2010
+phone 10001110
+recipient diabetes, the disabled
+donation 500, 150
+
+name Linda H Evans
+birthday 02-06-1980
+address 90 Chester Crescent, Chatswood, NSW
+postcode 2067
+phone 08100013
+recipient dog care, diabetes
+donation 250, 1500
+
+name Linda Evans
+birthday 19-12-2008
+address 9003 Chester Crescent, Chatswood, NSW
+postcode 2017
+phone 10001166
+
+
